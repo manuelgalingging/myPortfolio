@@ -67,7 +67,7 @@ a {
     bottom: 0;
     left: -300px;
     width: 300px;
-    background-color: rgba(26, 59, 102, .9);
+    background-color: rgb(65, 81, 97, .9);
     transition: .3s;
     z-index: 9999;
 }
